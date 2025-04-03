@@ -1,6 +1,5 @@
 # 💫 About Me:
 Sou Luiz Gustavo, estudante de Ciência da Computação na Universidade Federal da Fronteira Sul em Chapecó. Apaixonado por tecnologia, gosto de trabalhar em projetos colaborativos e estou sempre em busca de aprender coisas novas.<br>
-🔭 Atualmente tenho interesse em: Backend<br>🌱 Atualmente estou estudando: Java Spring boot && API´s<br>
 
 
 # 💻 Tech Stack:
